@@ -6,3 +6,5 @@ Para rodar os códigos utilize:
 - python automato1.py
 - python automato2.py
 - python automato3.py
+
+Assim que rodar a aplicação os resultados serão gravados no .txt respectivo 
