@@ -1,0 +1,13 @@
+$
+a
+b
+abab
+bbab
+ababababab
+abababababab
+aaaaaaaaaaaaa
+bbbbbbbbbbbbbbb
+ababababab
+aab
+ab
+abba
